@@ -115,7 +115,7 @@ Agile/Scrum, Jira/Trello
 **Aljazeera Private University**  
 📅 *October 2020 - July 2025*  
 🎓 **Bachelor of Science in Software Engineering**  
-📊 **GPA:** 3.2/4.0  
+📊 **GPA:** 3.1/4.0  
 🌐 [University Website](https://jude.edu.sy/)
 
 ---
